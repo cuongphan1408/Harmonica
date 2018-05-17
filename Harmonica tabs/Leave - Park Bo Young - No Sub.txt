@@ -1,38 +1,39 @@
-	Leave - Park Bo Young
+ Leave - Park Bo Young
 
-	R M M R R M
-	Đ R M M M F S F M
-	M M F M M - M F S S Đ Đ 
-	F F F F S F - M R M M M S F M
-	Đ R M R R Đ - L. Đ R R
+ R M M R R M
+ Đ R M M M F S F M
+ M M F M M - M F S S Đ Đ 
+ F F F F S F - M R M M M S F M
+ Đ R M R R Đ - L. Đ R R
+ 
+ R M M R R M
+ Đ R M M M F S F M
+ M M F M - M F S S Đ Đ  
+ F F F F S F - M R M M M S F M
+ Đ R M R R Đ R R - L. R R
+ 
+ [Chorus]
+ S S S S L S F M F S S
+ F F F F S F M R M F F 
+ S S S S L S F M F S S
+ S. F F F S F M R M F F 
+ 
+ [Harmonica]
+ S~ F M M~ F~ R~
+ R~ F~ M R R~ Đ X. Đ~
+ M. M. S. S. Đ Đ R F~ M R R~ Đ X. Đ~  
+ M R R~ Đ X.~
+ 
+ [Chorus]
+ S S S S L S F M F S S
+ F F F F S F M R M F F 
+ S S S S L S F M F S S
+ S. F F F S F M R M F F 
 
-	R M M R R M
-	Đ R M M M F S F M
-	M M F M - M F S S Đ Đ  
-	F F F F S F - M R M M M S F M
-	Đ R M R R Đ R R - L. R R
-
-	[Chorus]
-	S S S S L S F M F S S
-	F F F F S F M R M F F 
-	S S S S L S F M F S S
-	S. F F F S F M R M F F 
-
-	[Harmonica]
-	S~ F M M~ F~ R~
-	R~ F~ M R R~ Đ X. Đ~
-	M. M. S. S. Đ Đ R F~ M R R~ Đ X. Đ~  
-	M R R~ Đ X.~
-
-	[Chorus]
-	S S S S L S F M F S S
-	F F F F S F M R M F F 
-	S S S S L S F M F S S
-	S. F F F S F M R M F F 
-
-	[Ending]
-	R M M R R M
-	Đ R M M M F S F M
-	M M M - M F M F S S Đ Đ
-	F F F F S F - S. M M M S F M
-	Đ R M R R Đ~ - X.~ Đ~ Đ~
+ [Ending]
+ R M M R R M
+ Đ R M M M F S F M
+ M M M - M F M F S S Đ Đ
+ F F F F S F - S. M M M S F M
+ Đ R M R R Đ~ - X.~ Đ~ Đ~
+ 
