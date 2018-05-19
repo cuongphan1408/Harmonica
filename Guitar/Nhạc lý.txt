@@ -1,0 +1,7 @@
+1. Lên Dây Guitar: Datuner app
+	Dây 1	E4
+	Dây 2	B3
+	Dây 3	G3
+	Dây 4	D3
+	Dây 5	A2
+	Dây 6	E2
